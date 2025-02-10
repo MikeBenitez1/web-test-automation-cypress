@@ -8,3 +8,4 @@ Cypress.Commands.add('login', (email, password) => {
     loginPage.login();
     productsPage.validateProductsPage();
  })
+ 
