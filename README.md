@@ -1,6 +1,8 @@
 # web-test-automation-cypress
 Personal basic project to practice web test automation with Cypress and Javascript for SauceLabs example web https://www.saucedemo.com/
 
+![image](https://github.com/user-attachments/assets/4dde580b-ec2f-4809-989e-04cc6b1cf167)
+
 ## Table of Contents
 
 1. [Requirements](#requirements)
